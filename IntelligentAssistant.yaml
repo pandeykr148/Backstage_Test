@@ -4,7 +4,6 @@ metadata:
   name: IntelligentAssistant
   description: |
     GenAI enabled Intelligent SRE Assistant  
-    
   tags:
     - genaisre
   links:
