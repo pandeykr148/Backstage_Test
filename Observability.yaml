@@ -4,8 +4,6 @@ metadata:
   name: Observability
   description: |
     End to observability implemented through code
-  tags
-    - java
   links:
     - title: Observability
       url: http://capgemini.com
