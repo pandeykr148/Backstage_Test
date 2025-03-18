@@ -13,6 +13,8 @@ metadata:
       url: https://capgemininar.sharepoint.com/:p:/r/sites/FSCLOUD2025/Shared%20Documents/FS%20Cloud%202025/Gartner%20PCITS%20Demo%202025/Demos/01%20SRE%20Observability.pptx?d=w593025030d904a0195aaf4fe2b06f9c6&csf=1&web=1&e=r3HJG2
     - title: Implementation
       url: https://discord.com/invite/EBHEGzX
+  tags:
+    - SRE
   annotations:
     github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
