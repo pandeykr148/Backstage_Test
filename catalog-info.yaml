@@ -4,6 +4,8 @@ metadata:
   name: Dyanmic-Pipeline
   description: |
     Backstage is an open-source developer portal that puts the developer experience first.
+  tag
+   - DevOps
   links:
     - title: Dynamic Pipeline
       url: http://capgemini.com
