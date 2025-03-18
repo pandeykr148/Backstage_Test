@@ -4,6 +4,8 @@ metadata:
   name: IntelligentAssistant
   description: |
     GenAI enabled Intelligent SRE Assistant  
+  tags:
+    - GenAISRE
   links:
     - title: Intelligent Assistant
       url: http://capgemini.com
