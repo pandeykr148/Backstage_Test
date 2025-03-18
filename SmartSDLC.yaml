@@ -13,8 +13,8 @@ metadata:
       url: https://capgemininar.sharepoint.com/:p:/r/sites/FSCLOUD2025/Shared%20Documents/FS%20Cloud%202025/Gartner%20PCITS%20Demo%202025/Demos/04%20Agentic%20SDLC.pptx?d=w3a215173d5724096be1c8e924d9a1a88&csf=1&web=1&e=tdB5Ob
     - title: Implementation
       url: https://discord.com/invite/EBHEGzX
-    tags:
-      - genai
+  tags:
+    - genai
   annotations:
     github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
