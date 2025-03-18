@@ -4,8 +4,7 @@ metadata:
   name: Mainframe-Modernization
   description: |
     Backstage is an open-source developer portal that puts the developer experience first.
-  tags
-   - DevOps
+
   links:
     - title: Mainframe Modernization
       url: http://capgemini.com
