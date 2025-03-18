@@ -14,7 +14,7 @@ metadata:
     - title: Implementation
       url: https://discord.com/invite/EBHEGzX
   tags:
-    - SRE
+    - sre
   annotations:
     github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
