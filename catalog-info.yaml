@@ -1,16 +1,16 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Mainframe-Modernization
+  name: MainframeModernization
   description: |
-    Backstage is an open-source developer portal that puts the developer experience first.
+    GenAI enabled Mainframe Modernization
   links:
     - title: Mainframe Modernization
       url: http://capgemini.com
     - title: Video
-      url: https://capgemininar.sharepoint.com/:v:/r/sites/FSCLOUD2025/Shared%20Documents/FS%20Cloud%202025/Gartner%20PCITS%20Demo%202025/Demos/01%20SRE%20Demo%20%20-%20Capgemini%20-Cloud%20meet.mp4?csf=1&web=1&e=mj6M4n
+      url: https://capgemininar.sharepoint.com/:v:/r/sites/FSCLOUD2025/Shared%20Documents/FS%20Cloud%202025/Gartner%20PCITS%20Demo%202025/Demos/01%20SRE%20Demo%20%20-%20Capgemini%20-Cloud%20meet.mp4?csf=1&web=1&e=dF3i5F
     - title: Architecture
-      url: https://backstage.io/storybook
+      url: https://capgemininar.sharepoint.com/:p:/r/sites/FSCLOUD2025/Shared%20Documents/FS%20Cloud%202025/Gartner%20PCITS%20Demo%202025/Demos/01%20SRE%20Observability.pptx?d=w593025030d904a0195aaf4fe2b06f9c6&csf=1&web=1&e=r3HJG2
     - title: Implementation
       url: https://discord.com/invite/EBHEGzX
   annotations:
