@@ -1,14 +1,14 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Observability
+  name: SRE Observability
   description: |
     End to observability implemented through code
   links:
     - title: Observability
       url: http://capgemini.com
     - title: Video
-      url: https://capgemininar.sharepoint.com/:v:/r/sites/FSCLOUD2025/Shared%20Documents/FS%20Cloud%202025/Gartner%20PCITS%20Demo%202025/Demos/01%20SRE%20Demo%20%20-%20Capgemini%20-Cloud%20meet.mp4?csf=1&web=1&e=dF3i5F
+      url: https://capgemininar.sharepoint.com/:v:/r/sites/FSCLOUD2025/Shared%20Documents/FS%20Cloud%202025/Gartner%20PCITS%20Demo%202025/Demos/ProctorVideos%20v2/01%20SRE%20Observability%20Demo.mp4?csf=1&web=1&e=7Lv0HR
     - title: Architecture
       url: https://capgemininar.sharepoint.com/:p:/r/sites/FSCLOUD2025/Shared%20Documents/FS%20Cloud%202025/Gartner%20PCITS%20Demo%202025/Demos/01%20SRE%20Observability.pptx?d=w593025030d904a0195aaf4fe2b06f9c6&csf=1&web=1&e=r3HJG2
     - title: Implementation
