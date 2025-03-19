@@ -1,0 +1,25 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: SmartXForm
+  description: |
+    Code conversion
+  links:
+    - title: SmartXForm
+      url: http://capgemini.com
+    - title: Video
+      url: https://capgemininar.sharepoint.com/:v:/r/sites/FSCLOUD2025/Shared%20Documents/FS%20Cloud%202025/Gartner%20PCITS%20Demo%202025/Demos/ProctorVideos%20v2/05%20SmartXForm.mp4?csf=1&web=1&e=Vdhinf
+    - title: Architecture
+      url: https://capgemininar.sharepoint.com/:p:/r/sites/FSCLOUD2025/Shared%20Documents/FS%20Cloud%202025/Gartner%20PCITS%20Demo%202025/Demos/05%20Agentic%20SmartXform.pptx?d=wb949a94edf4141bd85d9c6a0ad8a95dc&csf=1&web=1&e=5nDpIP
+    - title: Implementation
+      url: https://discord.com/invite/EBHEGzX
+  tags:
+    - genai
+  annotations:
+    github.com/project-slug: backstage/backstage
+    backstage.io/techdocs-ref: dir:.
+    lighthouse.com/website-url: https://backstage.io
+spec:
+  type: library
+  owner: pandeykr148
+  lifecycle: production
