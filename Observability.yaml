@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: SRE-Observability
+  name: SREObservability
   description: |
     End to observability implemented through code
   links:
