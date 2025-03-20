@@ -7,11 +7,11 @@ metadata:
   links:
     - title: Dynamic Pipeline
       url: http://capgemini.com
-    - title: Documentation
-      url: https://capgemininar.sharepoint.com/:v:/r/sites/FSCLOUD2025/Shared%20Documents/FS%20Cloud%202025/Gartner%20PCITS%20Demo%202025/Demos/01%20SRE%20Demo%20%20-%20Capgemini%20-Cloud%20meet.mp4?csf=1&web=1&e=mj6M4n
-    - title: DevOps Assessment
-      url: https://backstage.io/storybook
-    - title: DevOps Implementation
+    - title: Architecture
+      url: https://capgemininar.sharepoint.com/:p:/r/sites/FSCloud-Solutions-CPES_2024/Shared%20Documents/CPES_CU/DevSecOps/02_Accelerators/Dynamic_Pipelines_Accelerator.pptx?d=wcd2f33e3e2e04f05a0e66f0c1b59d3cb&csf=1&web=1&e=FATqd5
+    - title: Video
+      url: https://capgemininar.sharepoint.com/:v:/r/sites/FSCloud-Solutions-CPES_2024/Shared%20Documents/CPES_CU/DevSecOps/03_Working%20Demos/Capgemini-dynamicpipelines-demo%20(1080p).mp4?csf=1&web=1&e=SBBFyY
+    - title: Implementation
       url: https://discord.com/invite/EBHEGzX
   annotations:
     github.com/project-slug: backstage/backstage
