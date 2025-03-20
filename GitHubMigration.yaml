@@ -5,7 +5,7 @@ metadata:
   description: |
     GenAI enabled Intelligent SRE Assistant  
   tags:
-    - DevOps
+    - devops
   links:
     - title: GitHub Migration
       url: http://capgemini.com
