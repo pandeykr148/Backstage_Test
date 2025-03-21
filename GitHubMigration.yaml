@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: GitHub-Migration
   description: |
-    GenAI enabled Intelligent SRE Assistant  
+    Home grown utility to migrate code & pipeline to GitHub Cloud
   tags:
     - devops
   links:
