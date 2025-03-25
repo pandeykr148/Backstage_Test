@@ -5,12 +5,12 @@ metadata:
   description: |
     Backstage is an open-source developer portal that puts the developer experience first.
   links:
-    - title: Dynamic Pipeline
-      url: http://capgemini.com
-    - title: Architecture
+    - title: Dynamic Pipeline Architecture
       url: https://capgemininar.sharepoint.com/:p:/r/sites/FSCloud-Solutions-CPES_2024/Shared%20Documents/CPES_CU/DevSecOps/02_Accelerators/Dynamic_Pipelines_Accelerator.pptx?d=wcd2f33e3e2e04f05a0e66f0c1b59d3cb&csf=1&web=1&e=FATqd5
     - title: Video
       url: https://capgemininar.sharepoint.com/:v:/r/sites/FSCloud-Solutions-CPES_2024/Shared%20Documents/CPES_CU/DevSecOps/03_Working%20Demos/Capgemini-dynamicpipelines-demo%20(1080p).mp4?csf=1&web=1&e=SBBFyY
+    - title: Case Studies
+      url: https://capgemini.com
     - title: Implementation
       url: https://discord.com/invite/EBHEGzX
   annotations:
