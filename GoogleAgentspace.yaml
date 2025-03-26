@@ -1,0 +1,25 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: GoogleAgentspace
+  description: |
+    Code conversion
+  links:
+    - title: GoogleAgentspace
+      url: http://capgemini.com
+    - title: Video
+      url: https://accounts.google.com/v3/signin/challenge/pwd?TL=ADBLaQBVtEcMJ7HQKW9sXon2AyqsmnJTtlKa842JQFNs4kuV8UvLoiKV5A8S-ciV&cid=2&continue=https%3A%2F%2Fadmin.google.com%2F&flowName=GlifWebSignIn&ifkv=AXH0vVti9lEoYN9PqTy5OMhWqu8-ZYJ--vqEYBOi8QeF0D5hNjxn1SNjmM5D5Nu3SD8kHXT5mXpvig&osid=1&rart=ANgoxce7nGCq8FXxxG2HNaOVv_v5gBLxrmSu24gmOj1iZiXYZgsdNmAV2ZwPj_I2mn0-49k7bx8PZ5ZECZIQYcrgGln-3TdBurXWbZXbgTc9JSvFalBYMQY&rpbg=1&sarp=1
+    - title: Architecture
+      url: https://accounts.google.com/v3/signin/challenge/pwd?TL=ADBLaQBVtEcMJ7HQKW9sXon2AyqsmnJTtlKa842JQFNs4kuV8UvLoiKV5A8S-ciV&cid=2&continue=https%3A%2F%2Fadmin.google.com%2F&flowName=GlifWebSignIn&ifkv=AXH0vVti9lEoYN9PqTy5OMhWqu8-ZYJ--vqEYBOi8QeF0D5hNjxn1SNjmM5D5Nu3SD8kHXT5mXpvig&osid=1&rart=ANgoxce7nGCq8FXxxG2HNaOVv_v5gBLxrmSu24gmOj1iZiXYZgsdNmAV2ZwPj_I2mn0-49k7bx8PZ5ZECZIQYcrgGln-3TdBurXWbZXbgTc9JSvFalBYMQY&rpbg=1&sarp=1
+    - title: Implementation
+      url: https://discord.com/invite/EBHEGzX
+  tags:
+    - genai
+  annotations:
+    github.com/project-slug: backstage/backstage
+    backstage.io/techdocs-ref: dir:.
+    lighthouse.com/website-url: https://backstage.io
+spec:
+  type: library
+  owner: pandeykr148
+  lifecycle: production
