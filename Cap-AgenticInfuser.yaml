@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Cap-AgenticInfuserDemo
+  name: CapAgenticInfuserDemo
   description: |
     Code conversion
   links:
-    - title: Cap-AgenticInfuserDemo
+    - title: CapAgenticInfuserDemo
       url: http://capgemini.com
     - title: Video
       url: https://capgemininar.sharepoint.com/:v:/s/FSCloudConneXt2025/EZLMYOBxlRVJvKRS0xU5PWsByDSoZG6l1XWUIG_1cqjYoQ?e=zcrT46
