@@ -21,5 +21,5 @@ metadata:
     lighthouse.com/website-url: https://backstage.io
 spec:
   type: library
-  owner: pandeykr148
+  owner: kamlesh.pandey@capgemini.com
   lifecycle: production
